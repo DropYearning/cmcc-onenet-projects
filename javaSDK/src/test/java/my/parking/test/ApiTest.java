@@ -107,6 +107,6 @@ public class ApiTest {
 
     @Test
     public void testAPI() {
-        changeParkingStatus("C1", 1);
+        changeParkingStatus("B3", 1);
     }
 }
