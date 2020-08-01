@@ -5,7 +5,7 @@ from onenet_http_api import OneNetHTTPHandle
 h = OneNetHTTPHandle()
 DEVICE_ID = "614460785"  # 设备id
 MASTER_KEY = "FWZQ4rS0ZGOd6Q0MyhHwNdZ=PMg="  # master-key
-time_now = time.strftime('%Y-%m-%dT%H:%M:%S', time.localtime(time.time()))
+# time_now = time.strftime('%Y-%m-%dT%H:%M:%S', time.localtime(time.time()))
 
 
 if __name__ == '__main__':
